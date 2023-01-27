@@ -35,4 +35,4 @@ For example:
 
 ./myprogram.o 100000
 ## Conclusion
-This project aims to demonstrate the ability to generate a list of integers and perform various statistical calculations on them. Additionally, it highlights the differences in performance between single-threaded and multi-threaded execution. A simple pdf report explaining the timing differences should be included with the project submission.
+This project aims to demonstrate the ability to generate a list of integers and perform various statistical calculations on them. Additionally, it highlights the differences in performance between single-threaded and multi-threaded execution. A simple pdf report explaining the timing differences is included in the project.
