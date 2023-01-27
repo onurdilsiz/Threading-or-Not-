@@ -1,0 +1,7 @@
+noThread: nothread.cpp
+	g++ nothread.cpp -o nothread.o 
+	./nothread.o 10000000
+	g++ threadTen.cpp -o threadTen.o -pthread
+	./threadTen.o 10000000
+	g++ threadFive.cpp -o threadFive.o -pthread
+	./threadFive.o 10000000
